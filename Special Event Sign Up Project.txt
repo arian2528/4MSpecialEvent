@@ -1,7 +1,3 @@
-# 4MSpecialEvent
-Development of 4M Special Event landing page. 
-
-
 Introduction
 
 An association is hosting a summer event and 4M was invited as a vendor. This is the big meeting where we are scheduled to launch the software.
@@ -24,3 +20,14 @@ Roles:
 BSA: Arian
 Graphic design: Miguel 
 Back Development: Arian and Karina
+
+
+
+
+
+
+Workflow Design
+
+Development
+Deployment
+
