@@ -28,7 +28,7 @@ Add message: Sign up process will take 60-90 days
 </ul>
 
 <h2>Workflow</h2>
-<img src="https://www.dropbox.com/sh/ykg777ckanocz8t/AACL7IBftXpJrop1DDMIZjJma?dl=0&preview=Workflow+Design.pdf" alt="special_event4M">
+<img src="https://www.dropbox.com/home/4M?select=Specail+Event+Reserve+Now.png" alt="special_event4M">
 
  
 
